@@ -1,0 +1,48 @@
+_repo: Coming-of-age-in-Samoa-b-A-psychological-study-of-primitive-youth-for-western-civilisation_74750
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Boas, Franz
+    alias: Boaz, Franz
+    birthdate: 1858
+    deathdate: 1942
+    gutenberg_agent_id: '40195'
+    url: http://www.gutenberg.org/2009/agents/40195
+    wikipedia: https://en.wikipedia.org/wiki/Franz_Boas
+creator:
+  author:
+    agent_name: Mead, Margaret
+    birthdate: 1901
+    deathdate: 1978
+    gutenberg_agent_id: '57628'
+    url: http://www.gutenberg.org/2009/agents/57628
+    wikipedia: https://en.wikipedia.org/wiki/Margaret_Mead
+description: ''
+gutenberg_issued: '2024-11-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74750'
+  lccn: '28020670'
+language: en
+pgterms:marc904: https://archive.org/details/comingofageinsam00mead/page/n5/mode/2up
+pgterms:marc905: 20240101041344mead
+pgterms:marc906: '1928'
+pgterms:marc907: US
+production_note: Robert Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aNew York :$bWilliam Morrow & Company, $c1928.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adolescence'
+- !lcsh 'Samoans -- Psychology'
+- !lcsh 'Girls -- Samoan Islands'
+- !lcsh 'Children -- Samoan Islands'
+- !lcsh 'Women, Samoan -- Social life and customs'
+- !lcsh 'Samoan Islands -- Social life and customs'
+- !lcc 'DU'
+- GITenberg
+title: 'Coming of age in Samoa : $b A psychological study of primitive youth for western
+  civilisation'
+url: http://www.gutenberg.org/ebooks/74750
