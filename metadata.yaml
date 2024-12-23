@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '40195'
     url: http://www.gutenberg.org/2009/agents/40195
     wikipedia: https://en.wikipedia.org/wiki/Franz_Boas
+covers:
+- cover_type: archival
+  image_path: 74750-h/images/cover.jpg
 creator:
   author:
     agent_name: Mead, Margaret
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/57628
     wikipedia: https://en.wikipedia.org/wiki/Margaret_Mead
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74750#Coming-of-age-in-Samoa-b-A-psychological-study-of-primitive-youth-for-western-civilisation
 gutenberg_issued: '2024-11-16'
 gutenberg_type: Text
 identifiers:
